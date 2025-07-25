@@ -21,7 +21,7 @@ Python, Pandas, Scikit-learn, XGBoost, Jupyter Notebook
 
 ---
 
-> Built with 💻 by Arsh59
+> Built 💻 by Arsh59
 
 
 
